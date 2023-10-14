@@ -72,7 +72,7 @@
 </div>
 <div class="container minimalistyczny">
     <h1>Zapisz się na Trening Personalny</h1>
-    <form action="send_email.php" method="POST">
+    <form method="POST">
         <label for="imie">Imię:</label>
         <input type="text" id="imie" name="imie" required placeholder="Wprowadź swoje imię">
 
@@ -104,11 +104,11 @@
         $subject = "Nowa wiadomość z formularza";
         $to = "maciejwoloszyn04@gmail.com";
 
-        $message = "Imię: $imie\n";
-        $message .= "Email: $email\n";
-        $message .= "Telefon: $telefon\n";
-        $message .= "Temat: $trener\n";
-        $message .= "Wiadomość:\n$wiadomosc";
+        $message = "Imię: $imie\n <br>";
+        $message .= "Email: $email\n <br>";
+        $message .= "Telefon: $telefon\n <br>";
+        $message .= "Temat: $trener\n <br>";
+        $message .= "Wiadomość:\n$wiadomosc <br>";
 
         $headers = 'MIME-Version: 1.0' . "\r\n";
         $headers .= 'Content-Type: text/html; charset=utf-8' . "\r\n";
