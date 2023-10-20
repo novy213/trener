@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Cennik</title>
     <link rel="stylesheet" href="cennik.css">
+    <link rel="icon" href="Maciej_Woloszyn-01-transparent.jpg">
 </head>
 <body>
 <header>
@@ -99,8 +100,6 @@
         $trener = $_POST["trener"];
         $wiadomosc = $_POST["wiadomosc"];
 
-        $from = "From $email";
-
         $subject = "Nowa wiadomość z formularza";
         $to = "maciejwoloszyn04@gmail.com";
 
@@ -112,7 +111,6 @@
 
         $headers = 'MIME-Version: 1.0' . "\r\n";
         $headers .= 'Content-Type: text/html; charset=utf-8' . "\r\n";
-        $headers .= 'From: ' . $from . "\r\n";
 
         mail($to, $subject, $message, $headers);
     }
