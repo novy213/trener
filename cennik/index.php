@@ -118,9 +118,9 @@
             <img src="Maciej_Woloszyn-01-transparent.jpg" alt="Logo" style="width: 75%;min-width: 50%">
         </div>
         <div class="media-społecznościowe">
-            <a href="https://www.facebook.com/profile.php?id=100087113545970" target="_blank"><img src="FB.png" alt="Facebook" style="width: 50%"></a>
-            <a href="https://www.instagram.com/maciejwoloszyn/" target="_blank"><img src="IG.png" alt="Instagram" style="width: 50%"></a>
-            <a href="tel:+48608867730"><img src="phone.png" alt="phone" style="width: 50%"></a>
+            <a href="https://www.facebook.com/profile.php?id=100087113545970" target="_blank"><img src="FB.png" alt="Facebook" style="width: 75%"></a>
+            <a href="https://www.instagram.com/maciejwoloszyn/" target="_blank"><img src="IG.png" alt="Instagram" style="width: 75%"></a>
+            <a href="tel:+48608867730"><img src="phone.png" alt="phone" style="width: 75%"></a>
         </div>
     </div>
 </footer>
