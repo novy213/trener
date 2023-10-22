@@ -66,10 +66,10 @@ th, td {
 }
 
 footer {
+    padding: 50px 20px 20px 20px;
     background-color: #000;
     color: #fff;
     text-align: center;
-    padding: 20px;
 }
 
 .stopka {
@@ -78,10 +78,6 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.stopka .logo img {
-    width: 75px;
 }
 
 .stopka .media-społecznościowe {

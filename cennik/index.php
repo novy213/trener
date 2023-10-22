@@ -115,11 +115,11 @@
 <footer>
     <div class="stopka">
         <div class="logo">
-            <img src="Maciej_Woloszyn-01-transparent.jpg" alt="Logo" style="width: 75%;">
+            <img src="Maciej_Woloszyn-01-transparent.jpg" alt="Logo" style="width: 125%;min-width: 50%">
         </div>
         <div class="media-społecznościowe">
-            <a href="https://www.facebook.com/profile.php?id=100087113545970" target="_blank"><img src="FB.png" alt="Facebook" style="width: 60px;"></a>
-            <a href="https://www.instagram.com/maciejwoloszyn/" target="_blank"><img src="IG.png" alt="Instagram" style="width: 60px;"></a>
+            <a href="https://www.facebook.com/profile.php?id=100087113545970" target="_blank"><img src="FB.png" alt="Facebook" style="width: 100%;"></a>
+            <a href="https://www.instagram.com/maciejwoloszyn/" target="_blank"><img src="IG.png" alt="Instagram" style="width: 100%;"></a>
         </div>
     </div>
 </footer>
