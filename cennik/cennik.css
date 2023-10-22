@@ -73,19 +73,15 @@ footer {
 }
 
 .stopka {
-    max-width: 600px;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.stopka .media-społecznościowe {
+.media-społecznościowe {
     display: flex;
     align-items: center;
-}
-
-.stopka .media-społecznościowe img {
-    width: 75px;
-    margin-left: 25px;
+    height: 100%;
 }
