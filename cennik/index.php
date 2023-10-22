@@ -115,7 +115,7 @@
 <footer>
     <div class="stopka">
         <div class="logo">
-            <img src="Maciej_Woloszyn-01-transparent.jpg" alt="Logo" style="width: 75%;min-width: 50%">
+            <img src="Maciej_Woloszyn-01-transparent.png" alt="Logo" style="width: 100%;min-width: 50%">
         </div>
         <div class="media-społecznościowe">
             <a href="https://www.facebook.com/profile.php?id=100087113545970" target="_blank"><img src="FB.png" alt="Facebook" style="width: 75%"></a>
